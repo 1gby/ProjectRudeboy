@@ -1,9 +1,4 @@
 {
-“name”: “Project Rudeboy™”,
-“identifier”: “com.projectrudeboy.source”,
-“sourceURL”: “https://your-domain.com/apps.json”,
-“apps”: [
-{
 “name”: “Rud3b0y™”,
 “bundleIdentifier”: “com.rud3b0y.app”,
 “developerName”: “Project Rudeboy™”,
