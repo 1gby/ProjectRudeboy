@@ -1,73 +1,73 @@
 {
-  "name": "Project Rudeboy",
-  "identifier": "com.rud3b0y.app",
-  "iconURL": "https://i.imgur.com/4dJMJQi.png",
-  "tintColor": "FFD700",
-  "featuredApps": [
-    "com.rud3b0y.app"
-  ],
-  "userInfo": {
-    "discordURL": "",
-    "websiteURL": ""
-  },
-  "apps": [
-    {
-      "name": "Rud3boy™Xr16",
-      "bundleIdentifier": "com.rud3b0y.app",
-      "developerName": "Rud3boy™",
-      "subtitle": "IphoneXr16 Version 🍩",
-      "localizedDescription": "Something to fill later.",
-      "version": "4.70.0",
-      "versionDate": "2025-01-24T12:00:00Z",
-      "versionDescription": "Fan-remade server - 100% free! Unlimited donuts, quick builds, ongoing events, and much more!",
-      "downloadURL": "https://cdn.projectspringfield.com/downloads/Rud3b0y%E2%84%A2XR16.ipa",
-      "iconURL": "https://i.imgur.com/4dJMJQi.png",
-      "size": 62595072,
-      "screenshotURLs": [
-        "https://i.imgur.com/Gvxaimb.jpeg",
-"https://i.imgur.com/msqj9n4.jpeg",
-"https://i.imgur.com/4F3E0Hh.jpeg"
-      ]
-    },
-    {
-      "name": "Rud3boy™iPad7",
-      "bundleIdentifier": "com.rud3b0y.app",
-      "developerName": "Rud3boy™",
-      "subtitle": "Ipad7 Version 🍩",
-      "localizedDescription": "Something to fill later.",
-      "version": "4.70.0",
-      "versionDate": "2025-01-24T12:00:00Z",
-      "versionDescription": "Fan-remade server - 100% free! Unlimited donuts, quick builds, ongoing events, and much more!",
-      "downloadURL": "https://cdn.projectspringfield.com/downloads/Rud3b0y%E2%84%A2iPad7.ipa",
-      "iconURL": "https://i.imgur.com/4dJMJQi.png",
-      "size": 62595072,
-      "screenshotURLs": [
-        "https://i.imgur.com/Gvxaimb.jpeg",
-"https://i.imgur.com/msqj9n4.jpeg",
-"https://i.imgur.com/4F3E0Hh.jpeg"
-      ]
-    },
-  ],
-  "news": [
-    {
-      "title": "All 2 Versions Now Available!",
-      "identifier": "two-versions-launch",
-      "caption": "Choose your device version",
-      "date": "2026-01-03",
-      "tintColor": "FFD700",
-      "imageURL": "https://i.imgur.com/Lw0Fzz3.png",
-      "url": "https://discord.gg/Ktuy5XmNNa",
-      "notify": false
-    },
-    {
-      "title": "Project Rud3boy™ 👋",
-      "identifier": "welcome-message",
-      "caption": "Keep The Simpsons: Tapped Out alive! All versions are 100% free with unlimited donuts and instant builds. Join our Discord for support!",
-      "date": "2026-01-03",
-      "tintColor": "87CEEB",
-      "imageURL": "https://i.imgur.com/emgZ2wX.png",
-      "url": "https://discord.gg/Ktuy5XmNNa",
-      "notify": false
-    }
-  ]
+“name”: “Project Rudeboy”,
+“identifier”: “com.rud3b0y.app”,
+“iconURL”: “https://i.imgur.com/4dJMJQi.png”,
+“tintColor”: “FFD700”,
+“featuredApps”: [
+“com.rud3b0y.app”
+],
+“userInfo”: {
+“discordURL”: “”,
+“websiteURL”: “”
+},
+“apps”: [
+{
+“name”: “Rud3boy™Xr16”,
+“bundleIdentifier”: “com.rud3b0y.app”,
+“developerName”: “Rud3boy™”,
+“subtitle”: “IphoneXr16 Version 🍩”,
+“localizedDescription”: “Something to fill later.”,
+“version”: “4.70.0”,
+“versionDate”: “2025-01-24T12:00:00Z”,
+“versionDescription”: “Fan-remade server - 100% free! Unlimited donuts, quick builds, ongoing events, and much more!”,
+“downloadURL”: “https://cdn.projectspringfield.com/downloads/Rud3b0y%E2%84%A2XR16.ipa”,
+“iconURL”: “https://i.imgur.com/4dJMJQi.png”,
+“size”: 62595072,
+“screenshotURLs”: [
+“https://i.imgur.com/Gvxaimb.jpeg”,
+“https://i.imgur.com/msqj9n4.jpeg”,
+“https://i.imgur.com/4F3E0Hh.jpeg”
+]
+},
+{
+“name”: “Rud3boy™iPad7”,
+“bundleIdentifier”: “com.rud3b0y.app”,
+“developerName”: “Rud3boy™”,
+“subtitle”: “Ipad7 Version 🍩”,
+“localizedDescription”: “Something to fill later.”,
+“version”: “4.70.0”,
+“versionDate”: “2025-01-24T12:00:00Z”,
+“versionDescription”: “Fan-remade server - 100% free! Unlimited donuts, quick builds, ongoing events, and much more!”,
+“downloadURL”: “https://cdn.projectspringfield.com/downloads/Rud3b0y%E2%84%A2iPad7.ipa”,
+“iconURL”: “https://i.imgur.com/4dJMJQi.png”,
+“size”: 35553894,
+“screenshotURLs”: [
+“https://i.imgur.com/Gvxaimb.jpeg”,
+“https://i.imgur.com/msqj9n4.jpeg”,
+“https://i.imgur.com/4F3E0Hh.jpeg”
+]
+}
+],
+“news”: [
+{
+“title”: “All 2 Versions Now Available!”,
+“identifier”: “two-versions-launch”,
+“caption”: “Choose your device version”,
+“date”: “2026-01-03”,
+“tintColor”: “FFD700”,
+“imageURL”: “https://i.imgur.com/Lw0Fzz3.png”,
+“url”: “https://discord.gg/Ktuy5XmNNa”,
+“notify”: false
+},
+{
+“title”: “Project Rud3boy™ 👋”,
+“identifier”: “welcome-message”,
+“caption”: “Keep The Simpsons: Tapped Out alive! All versions are 100% free with unlimited donuts and instant builds. Join our Discord for support!”,
+“date”: “2026-01-03”,
+“tintColor”: “87CEEB”,
+“imageURL”: “https://i.imgur.com/emgZ2wX.png”,
+“url”: “https://discord.gg/Ktuy5XmNNa”,
+“notify”: false
+}
+]
 }
