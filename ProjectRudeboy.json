@@ -1,0 +1,72 @@
+{
+“name”: “Project Rudeboy™”,
+“identifier”: “com.projectrudeboy.source”,
+“sourceURL”: “https://your-domain.com/apps.json”,
+“apps”: [
+{
+“name”: “Rud3b0y™”,
+“bundleIdentifier”: “com.rud3b0y.app”,
+“developerName”: “Project Rudeboy™”,
+“subtitle”: “Simpsons Tapped Out for Rud3boy™ Server”,
+“localizedDescription”: “Apps for Simpsons Tapped Out for Rud3boy™ server. Choose the version that matches your device for the best experience.”,
+“iconURL”: “https://i.imgur.com/4dJMJQi.png”,
+“tintColor”: “#FFD700”,
+“screenshotURLs”: [
+“https://i.imgur.com/Gvxaimb.jpeg”,
+“https://i.imgur.com/msqj9n4.jpeg”,
+“https://i.imgur.com/4F3E0Hh.jpeg”
+],
+“versions”: [
+{
+“version”: “4.70.0”,
+“date”: “2026-01-20”,
+“localizedDescription”: “Latest version for iPhone XR and iOS 16”,
+“downloadURL”: “https://cdn.projectspringfield.com/downloads/Rud3b0y%E2%84%A2XR16.ipa”,
+“size”: 62595072,
+“minOSVersion”: “13.0”,
+“maxOSVersion”: “16.99”,
+“screenshotURLs”: [
+“https://i.imgur.com/Gvxaimb.jpeg”,
+“https://i.imgur.com/msqj9n4.jpeg”,
+“https://i.imgur.com/4F3E0Hh.jpeg”
+]
+},
+{
+“version”: “4.70.0”,
+“date”: “2025-07-16”,
+“localizedDescription”: “Optimized for iPad mini, iPad 7, and iPhone 7. Also works great on iPhone XR.”,
+“downloadURL”: “https://cdn.projectspringfield.com/downloads/Rud3b0y%E2%84%A2iPad7.ipa”,
+“size”: 35553894,
+“minOSVersion”: “13.0”,
+“maxOSVersion”: “16.99”,
+“screenshotURLs”: [
+“https://i.imgur.com/Gvxaimb.jpeg”,
+“https://i.imgur.com/msqj9n4.jpeg”,
+“https://i.imgur.com/4F3E0Hh.jpeg”
+]
+}
+],
+“appPermissions”: {
+“entitlements”: [
+{
+“name”: “get-task-allow”
+}
+],
+“privacy”: []
+}
+}
+],
+“news”: [
+{
+“title”: “Rud3b0y™ v4.70.0 Released”,
+“identifier”: “rud3boy-4.70.0”,
+“caption”: “New version available for all devices”,
+“date”: “2026-01-20”,
+“tintColor”: “#FFD700”,
+“imageURL”: “https://i.imgur.com/4dJMJQi.png”,
+“notify”: true,
+“url”: “https://cdn.projectspringfield.com/”
+}
+],
+“userInfo”: {}
+}
