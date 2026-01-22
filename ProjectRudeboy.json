@@ -1,4 +1,9 @@
 {
+“name”: “Project Rudeboy™”,
+“identifier”: “com.rud3b0y.app”,
+“sourceURL”: “https://raw.githubusercontent.com/1gby/ProjectRudeboy/main/ProjectRudeboy.json”,
+“apps”: [
+{
 “name”: “Rud3b0y™”,
 “bundleIdentifier”: “com.rud3b0y.app”,
 “developerName”: “Project Rudeboy™”,
