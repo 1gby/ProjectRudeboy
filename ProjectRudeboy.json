@@ -52,10 +52,10 @@
     {
       "title": "All 2 Versions Now Available!",
       "identifier": "two-versions-launch",
-      "caption": "Choose your playstyle",
+      "caption": "Choose your device version",
       "date": "2026-01-03",
       "tintColor": "FFD700",
-      "imageURL": "https://i.imgur.com/Gvxaimb.jpeg",
+      "imageURL": "https://i.imgur.com/Lw0Fzz3.png",
       "url": "https://discord.gg/Ktuy5XmNNa",
       "notify": false
     },
@@ -65,7 +65,7 @@
       "caption": "Keep The Simpsons: Tapped Out alive! All versions are 100% free with unlimited donuts and instant builds. Join our Discord for support!",
       "date": "2026-01-03",
       "tintColor": "87CEEB",
-      "imageURL": "https://i.imgur.com/msqj9n4.jpeg",
+      "imageURL": "https://i.imgur.com/emgZ2wX.png",
       "url": "https://discord.gg/Ktuy5XmNNa",
       "notify": false
     }
